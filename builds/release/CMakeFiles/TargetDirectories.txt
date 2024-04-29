@@ -1,0 +1,6 @@
+/workspaces/downward/builds/release/CMakeFiles/rebuild_cache.dir
+/workspaces/downward/builds/release/CMakeFiles/edit_cache.dir
+/workspaces/downward/builds/release/CMakeFiles/translate.dir
+/workspaces/downward/builds/release/search/CMakeFiles/rebuild_cache.dir
+/workspaces/downward/builds/release/search/CMakeFiles/downward.dir
+/workspaces/downward/builds/release/search/CMakeFiles/edit_cache.dir

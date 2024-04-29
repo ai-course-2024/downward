@@ -3,3 +3,4 @@
 /.github export-ignore
 /.gitignore export-ignore
 /.uncrustify.cfg export-ignore
+builds/release/bin//downward filter=lfs diff=lfs merge=lfs -text
